@@ -1,0 +1,3 @@
+Hello, Git!
+This is a sample file for Experiment 1.
+Practice: git status, git add, git commit, git log
